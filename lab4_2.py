@@ -1,0 +1,2 @@
+input_name = input("Name : ")
+print(f"I am {input_name}, I am obsessed in data-intensive systems and high-performance computing.\nCurrently, I am working as a CTO of GAMEPLENG COMPANY LIMITED. Meanwhile, I am also finalizing research on making graph query engines closer to hand-written high-performance code.\nMy other obsession is in teaching.I can spend several hours teaching without being tired out.\nI have an ambitious dream of creating a frontier database system group in Thailand.")
